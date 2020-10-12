@@ -1,0 +1,20 @@
+{
+    "name": "watch",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+      "start":"nohup node app.js  1>>app.log 2>>error.log & echo",
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+      "nodemailer": "^6.4.2",
+      "request-promise": "^4.2.5",
+      "superagent": "^5.2.1",
+      "superagent-charset": "^1.2.0",
+      "superagent-proxy": "^2.0.0"
+    }
+  }
+  

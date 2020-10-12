@@ -1,0 +1,36 @@
+nohup: ignoring input
+nohup: ignoring input
+A custom superagent parser has been set, but buffering strategy for the parser hasn't been configured. Call `req.buffer(true or false)` or set `superagent.buffer[mime] = true or false`
+C:\Users\hzk\Desktop\前端\分享\watch\app.js:64
+  subject: item.name + '系统恢复',
+           ^
+
+ReferenceError: item is not defined
+    at Object.<anonymous> (C:\Users\hzk\Desktop\前端\分享\watch\app.js:64:12)
+    at Module._compile (internal/modules/cjs/loader.js:776:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:787:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Function.Module.runMain (internal/modules/cjs/loader.js:829:12)
+    at startup (internal/bootstrap/node.js:283:19)
+    at bootstrapNodeJSCore (internal/bootstrap/node.js:622:3)
+C:\Users\hzk\Desktop\前端\分享\watch\app.js:64
+  subject: item.name + '系统恢复',
+           ^
+
+ReferenceError: item is not defined
+    at Object.<anonymous> (C:\Users\hzk\Desktop\前端\分享\watch\app.js:64:12)
+    at Module._compile (internal/modules/cjs/loader.js:776:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:787:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Function.Module.runMain (internal/modules/cjs/loader.js:829:12)
+    at startup (internal/bootstrap/node.js:283:19)
+    at bootstrapNodeJSCore (internal/bootstrap/node.js:622:3)
+nohup: ignoring input
+nohup: ignoring input
+nohup: ignoring input
+nohup: ignoring input
+nohup: ignoring input

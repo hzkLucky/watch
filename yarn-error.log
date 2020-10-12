@@ -1,0 +1,31 @@
+Arguments: 
+  C:\Program Files\nodejs\node.exe C:\Program Files (x86)\Yarn\bin\yarn.js install
+
+PATH: 
+  C:\Users\hzk\bin;C:\Program Files (x86)\Git\mingw32\bin;C:\Program Files (x86)\Git\usr\local\bin;C:\Program Files (x86)\Git\usr\bin;C:\Program Files (x86)\Git\usr\bin;C:\Program Files (x86)\Git\mingw32\bin;C:\Program Files (x86)\Git\usr\bin;C:\Users\hzk\bin;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0;C:\Windows\System32\OpenSSH;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\TortoiseGit\bin;C:\Program Files\MySQL\MySQL Server 8.0\bin;C:\Program Files\Git\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\WINDOWS\System32\OpenSSH;C:\Users\hzk\Downloads\flutter\bin;C:\Program Files (x86)\Java\jre1.8.0_231\bin;C:\Program Files (x86)\Yarn\bin;C:\Users\hzk\AppData\Roaming\npm;C:\Program Files\nodejs;C:\Program Files (x86)\Git\cmd;C:\Users\hzk\AppData\Local\Programs\Python\Python38\Scripts;C:\Users\hzk\AppData\Local\Programs\Python\Python38;C:\Program Files\Git\bin;C:\Users\hzk\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\hzk\AppData\Local\Microsoft\WindowsApps;C:\Program Files (x86)\Java\jre1.8.0_231\bin;C:\Users\hzk\AppData\Local\Yarn\bin;C:\Users\hzk\AppData\Roaming\npm;C:\Users\hzk\AppData\Local\GitHubDesktop\bin;C:\Program Files (x86)\Git\usr\bin\vendor_perl;C:\Program Files (x86)\Git\usr\bin\core_perl
+
+Yarn version: 
+  1.21.1
+
+Node version: 
+  10.16.0
+
+Platform: 
+  win32 x64
+
+Trace: 
+  SyntaxError: C:\Users\hzk\Desktop\前端\分享\watch\package.json: Unexpected end of JSON input
+      at JSON.parse (<anonymous>)
+      at C:\Program Files (x86)\Yarn\lib\cli.js:1625:59
+      at Generator.next (<anonymous>)
+      at step (C:\Program Files (x86)\Yarn\lib\cli.js:310:30)
+      at C:\Program Files (x86)\Yarn\lib\cli.js:321:13
+
+npm manifest: 
+  
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
